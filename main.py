@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.preprocessing import  LabelEncoder
+from sklearn.preprocessing import LabelEncoder
 import xgboost as xgb
 import numpy as np
 st.header("Fish Weight Prediction App")
